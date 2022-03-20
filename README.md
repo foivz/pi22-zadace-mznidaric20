@@ -25,6 +25,7 @@ Projekt pokriva problem vođenja radnih naloga, podaci se unose ručno i sustavo
   F09             |  Dodavnje i uređivanje komentara    |  Dodavanje komentara tijekom zatvaranja naloga
   F10             |  Ispis naloga                       |  Ispisivanje naloga
   F11             |  Arhiva                             |  Arhivirani nalozi
+  F12             |  Upis pacijenta                     |  Upisivanje pacijenta u sustav
   
  Oznaka           |    Kratki Opis   
   --------------  | ------------------------------------ 
