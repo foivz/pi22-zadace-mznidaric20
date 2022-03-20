@@ -15,7 +15,6 @@ Projekt pokriva problem vođenja radnih naloga, podaci se unose ručno i sustavo
 Umjesto ovih uputa vlastitim riječima opišite zahtjeve za funkcionalnošću programskog proizvoda.
 
 ## Zadatak
-U root repozitorija učitajte zadatak koji ste dobili i potom ovdje stavite link na njegovo otvaranje.
 [Softver za praćenje analize uzoraka krvi i urina u mikrobiološkom laboratoriju](https://github.com/foivz/pi22-zadace-mznidaric20/blob/master/Korisni%C4%8Dki%20zahtjevi%20ZS%20-%20mikrobiolo%C5%A1ki%20laboratorij.pdf)
 
 ## Resursi
