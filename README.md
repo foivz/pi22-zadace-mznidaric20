@@ -18,7 +18,7 @@ Projekt pokriva problem vođenja radnih naloga, podaci se unose ručno i sustavo
   F02             |  Izrada novog radnog naloga         |  Specijalist stvara novi radni nalog
   F03             |  Pregled i uređivanje radnog naloga |  Nalozi se mogu uređivati i brisati od strane specijalista
   F04             |  Unos novog uzorka krvi/urina       |  Odabire se vrsta uzorka te se unosi u sustav
-  F05             |  Usporedba uzorka                   |  Mogućnost uspoređivanja 2 ili više uzorka iz arhive
+  F05             |  Usporedba nalaza                   |  Mogućnost uspoređivanja 2 ili više nalaza iz arhive
   F06             |  Statistika                         |  Razvrstavanje i grafički prikaz određenih uzoraka u obliku statistike 
   F07             |  Sortiranje                         |  Sortiranje naloga po broju, pacijentu, vrsti pretrage
   F08             |  Slanje naloga                      |  Nalog se šalje pacijentu ili daljnjim specijalistima
