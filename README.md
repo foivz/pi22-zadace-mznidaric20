@@ -12,7 +12,18 @@ Softver za praćenje analize uzoraka krvi i urina u mikrobiološkom laboratoriju
 Projekt pokriva problem vođenja radnih naloga, podaci se unose ručno i sustavom za automatskim prepoznavanjem rezultata sa stroja za analizu. Program prati status zaprimljenih uzoraka krvi i urina, svakom uzorku se dodjeljuje jedinstveni QR kod. Svi podaci su vidljivi skeniranjem QR koda, a na kraju specijalist pregledava nalog i zaključava ga uz mogućnost dodavanja komentara ili mišljenja
 
 ## Specifikacija projekta
-Umjesto ovih uputa vlastitim riječima opišite zahtjeve za funkcionalnošću programskog proizvoda.
+  Oznaka          |                Naziv         |    Kratki Opis   
+  --------------  | ---------------------------- | --------------- 
+  F01             |  Izrada novog radnog naloga  |  
+  F02             |  Pregled i uređivanje radnog naloga |  
+  F03             |  Unos novog uzorka krvi/urina  |  
+  F04             |  Usporedba uzorka  |  
+  F05             |  Statistika  |  
+  F06             |  Sortiranje  |  
+  F07             |  Promjena teme  |  
+  F08             |  Dodavnjae i uređivanje komentara  |  
+
+
 
 ## Zadatak
 [Softver za praćenje analize uzoraka krvi i urina u mikrobiološkom laboratoriju](https://github.com/foivz/pi22-zadace-mznidaric20/blob/master/Korisni%C4%8Dki%20zahtjevi%20ZS%20-%20mikrobiolo%C5%A1ki%20laboratorij.pdf)
