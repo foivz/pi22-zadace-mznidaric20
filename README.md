@@ -12,17 +12,18 @@ Softver za praćenje analize uzoraka krvi i urina u mikrobiološkom laboratoriju
 Projekt pokriva problem vođenja radnih naloga, podaci se unose ručno i sustavom za automatskim prepoznavanjem rezultata sa stroja za analizu. Program prati status zaprimljenih uzoraka krvi i urina, svakom uzorku se dodjeljuje jedinstveni QR kod. Svi podaci su vidljivi skeniranjem QR koda, a na kraju specijalist pregledava nalog i zaključava ga uz mogućnost dodavanja komentara ili mišljenja
 
 ## Specifikacija projekta
-  Oznaka          |                Naziv         |    Kratki Opis   
-  --------------  | ---------------------------- | --------------- 
-  F01             |  Izrada novog radnog naloga  |  
-  F02             |  Pregled i uređivanje radnog naloga |  
-  F03             |  Unos novog uzorka krvi/urina  |  
-  F04             |  Usporedba uzorka  |  
-  F05             |  Statistika  |  
-  F06             |  Sortiranje  |  
-  F07             |  Promjena teme  |  
-  F08             |  Dodavnjae i uređivanje komentara  |  
-
+  Oznaka          |                Naziv                |    Kratki Opis   
+  --------------  | ----------------------------------- | --------------- 
+  F01             |  Prijava u sustav                   |  Specijalist se prijavljuje u sustav pomoću svojih podataka
+  F02             |  Izrada novog radnog naloga         |  Specijalist stvara novi radni nalog
+  F03             |  Pregled i uređivanje radnog naloga |  Nalozi se mogu uređivati i brisati od strane specijalista
+  F04             |  Unos novog uzorka krvi/urina       |  Odabire se vrsta uzorka te se unosi u sustav
+  F05             |  Usporedba uzorka                   |  Mogućnost uspoređivanja 2 ili više uzorka iz arhive
+  F06             |  Statistika                         |  Razvrstavanje i grafički prikaz određenih uzoraka u obliku statistike 
+  F07             |  Sortiranje                         |  Sortiranje naloga po broju, pacijentu, vrsti pretrage
+  F08             |  Promjena teme                      |  Mjenjanje boje programa
+  F09             |  Dodavnje i uređivanje komentara    |  Dodavanje komentara tijekom zatvaranja naloga
+  F10             |  Ispis naloga                       |  Ispisivanje naloga
 
 
 ## Zadatak
