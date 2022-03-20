@@ -12,18 +12,17 @@ Softver za praćenje analize uzoraka krvi i urina u mikrobiološkom laboratoriju
 Projekt pokriva problem vođenja radnih naloga, podaci se unose ručno i sustavom za automatskim prepoznavanjem rezultata sa stroja za analizu. Program prati status zaprimljenih uzoraka krvi i urina, svakom uzorku se dodjeljuje jedinstveni QR kod. Svi podaci su vidljivi skeniranjem QR koda, a na kraju specijalist pregledava nalog i zaključava ga uz mogućnost dodavanja komentara ili mišljenja
 
 ## Specifikacija projekta
-  Oznaka          |                Naziv                |    Kratki Opis   
-  --------------  | ----------------------------------- | --------------- 
-  F01             |  Prijava u sustav                   |  Specijalist se prijavljuje u sustav pomoću svojih podataka
-  F02             |  Izrada novog radnog naloga         |  Specijalist stvara novi radni nalog
-  F03             |  Pregled i uređivanje radnog naloga |  Nalozi se mogu uređivati i brisati od strane specijalista
-  F04             |  Unos novog uzorka krvi/urina       |  Odabire se vrsta uzorka te se unosi u sustav
-  F05             |  Usporedba nalaza                   |  Mogućnost uspoređivanja 2 ili više nalaza iz arhive
-  F06             |  Statistika                         |  Razvrstavanje i grafički prikaz određenih uzoraka u obliku statistike 
-  F07             |  Sortiranje                         |  Sortiranje naloga po broju, pacijentu, vrsti pretrage
-  F08             |  Dodavanje i uređivanje komentara    |  Dodavanje komentara tijekom zatvaranja naloga
-  F09             |  Arhiva                             |  Arhivirani nalozi
-  F10             |  Upis pacijenta                     |  Upisivanje pacijenta u sustav
+  Oznaka          |                Naziv                                    |    Kratki Opis   
+  --------------  | ------------------------------------------------------- | --------------- 
+  F01             |  Sustav će omogućiti prijavu u sustav                   |  Specijalist se prijavljuje u sustav pomoću svojih podataka
+  F02             |  Sustav će omogućiti stvaranje novog radnog naloga      |  Specijalist stvara novi radni nalog
+  F03             |  Sustav će omogućiti pregled i uređivanje radnog naloga |  Nalozi se mogu uređivati i brisati od strane specijalista
+  F04             |  Sustav će omogućiti usporedba nalaza                   |  Mogućnost uspoređivanja 2 ili više nalaza iz arhive
+  F05             |  Sustav će omogućiti Statistički prikaz podataka       |  Razvrstavanje i grafički prikaz odabranih naloga u obliku statistike 
+  F06             |  Sustav će omogućiti Sortiranje                         |  Sortiranje naloga po broju, pacijentu, vrsti pretrage
+  F07             |  Sustav će omogućiti dodavanje i uređivanje komentara   |  Dodavanje komentara tijekom zatvaranja naloga
+  F08             |  Sustav će imati arhiva                                 |  Arhivirani nalozi
+  F09             |  Sustav će omogućiti upis pacijenta                     |  Upisivanje pacijenta u sustav
   
  Oznaka           |    Kratki Opis   
   --------------  | ------------------------------------ 
