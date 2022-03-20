@@ -9,7 +9,7 @@ Softver za praćenje analize uzoraka krvi i urina u mikrobiološkom laboratoriju
 
 
 ## Opis domene
-Projekt pokriva problem vođenja radnih naloga, podaci se unose ručno i sustavom za automatskim prepoznavanjem rezultata sa stroja za analizu. Program prati status zaprimljenih uzoraka
+Projekt pokriva problem vođenja radnih naloga, podaci se unose ručno i sustavom za automatskim prepoznavanjem rezultata sa stroja za analizu. Program prati status zaprimljenih uzoraka krvi i urina, svakom uzorku se dodjeljuje jedinstveni QR kod. Svi podaci su vidljivi skeniranjem QR koda, a na kraju specijalist pregledava nalog i zaključava ga uz mogućnost dodavanja komentara ili mišljenja
 
 ## Specifikacija projekta
 Umjesto ovih uputa vlastitim riječima opišite zahtjeve za funkcionalnošću programskog proizvoda.
