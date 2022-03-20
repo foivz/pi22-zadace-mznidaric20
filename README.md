@@ -17,12 +17,11 @@ Projekt pokriva problem vođenja radnih naloga, podaci se unose ručno i sustavo
   F01             |  Sustav će omogućiti prijavu u sustav                   |  Specijalist se prijavljuje u sustav pomoću svojih podataka
   F02             |  Sustav će omogućiti stvaranje novog radnog naloga      |  Specijalist stvara novi radni nalog
   F03             |  Sustav će omogućiti pregled i uređivanje radnog naloga |  Nalozi se mogu uređivati i brisati od strane specijalista
-  F04             |  Sustav će omogućiti usporedbu nalaza                   |  Mogućnost uspoređivanja 2 ili više nalaza iz arhive
-  F05             |  Sustav će omogućiti statistički prikaz podataka       |  Razvrstavanje i grafički prikaz odabranih naloga u obliku statistike 
-  F06             |  Sustav će omogućiti sortiranje                         |  Sortiranje naloga po broju, pacijentu, vrsti pretrage
-  F07             |  Sustav će omogućiti dodavanje i uređivanje komentara   |  Dodavanje komentara tijekom zatvaranja naloga
-  F08             |  Sustav će imati arhiva                                 |  Arhivirani nalozi
-  F09             |  Sustav će omogućiti upis pacijenta                     |  Upisivanje pacijenta u sustav
+  F04             |  Sustav će omogućiti statistički prikaz podataka       |  Razvrstavanje i grafički prikaz odabranih naloga u obliku statistike 
+  F05             |  Sustav će omogućiti sortiranje                         |  Sortiranje naloga po broju, pacijentu, vrsti pretrage
+  F06             |  Sustav će omogućiti dodavanje i uređivanje komentara   |  Dodavanje komentara tijekom zatvaranja naloga
+  F07             |  Sustav će imati arhiva                                 |  Arhivirani nalozi
+  F08             |  Sustav će omogućiti upis pacijenta                     |  Upisivanje pacijenta u sustav
   
  Oznaka           |    Kratki Opis   
   --------------  | ------------------------------------ 
