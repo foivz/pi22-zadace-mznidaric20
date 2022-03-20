@@ -22,9 +22,8 @@ Projekt pokriva problem vođenja radnih naloga, podaci se unose ručno i sustavo
   F06             |  Statistika                         |  Razvrstavanje i grafički prikaz određenih uzoraka u obliku statistike 
   F07             |  Sortiranje                         |  Sortiranje naloga po broju, pacijentu, vrsti pretrage
   F08             |  Dodavnje i uređivanje komentara    |  Dodavanje komentara tijekom zatvaranja naloga
-  F09             |  Ispis naloga                       |  Ispisivanje naloga
-  F10             |  Arhiva                             |  Arhivirani nalozi
-  F11             |  Upis pacijenta                     |  Upisivanje pacijenta u sustav
+  F09             |  Arhiva                             |  Arhivirani nalozi
+  F10             |  Upis pacijenta                     |  Upisivanje pacijenta u sustav
   
  Oznaka           |    Kratki Opis   
   --------------  | ------------------------------------ 
