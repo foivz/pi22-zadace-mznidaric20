@@ -21,10 +21,16 @@ Projekt pokriva problem vođenja radnih naloga, podaci se unose ručno i sustavo
   F05             |  Usporedba uzorka                   |  Mogućnost uspoređivanja 2 ili više uzorka iz arhive
   F06             |  Statistika                         |  Razvrstavanje i grafički prikaz određenih uzoraka u obliku statistike 
   F07             |  Sortiranje                         |  Sortiranje naloga po broju, pacijentu, vrsti pretrage
-  F08             |  Promjena teme                      |  Mjenjanje boje programa
+  F08             |  Slanje naloga                      |  Nalog se šalje pacijentu ili daljnjim specijalistima
   F09             |  Dodavnje i uređivanje komentara    |  Dodavanje komentara tijekom zatvaranja naloga
   F10             |  Ispis naloga                       |  Ispisivanje naloga
-
+  F11             |  Arhiva                             |  Arhivirani nalozi
+  
+ Oznaka           |    Kratki Opis   
+  --------------  | ------------------------------------ 
+  NF01            |   Mogućnost promjene boje programa
+  NF02            |   Izbornik na vrhu
+  NF03            |   Brz pristup podacima u bilo koje vrijeme
 
 ## Zadatak
 [Softver za praćenje analize uzoraka krvi i urina u mikrobiološkom laboratoriju](https://github.com/foivz/pi22-zadace-mznidaric20/blob/master/Korisni%C4%8Dki%20zahtjevi%20ZS%20-%20mikrobiolo%C5%A1ki%20laboratorij.pdf)
