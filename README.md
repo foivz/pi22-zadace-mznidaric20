@@ -31,6 +31,7 @@ Projekt pokriva problem vođenja radnih naloga, podaci se unose ručno i sustavo
 
 ## Zadatak
 [Softver za praćenje analize uzoraka krvi i urina u mikrobiološkom laboratoriju](https://github.com/foivz/pi22-zadace-mznidaric20/blob/master/Korisni%C4%8Dki%20zahtjevi%20ZS%20-%20mikrobiolo%C5%A1ki%20laboratorij.pdf)
+
 [WIKI](https://github.com/foivz/pi22-zadace-mznidaric20/wiki)
 ## Resursi
 Github Markdown sintaksa dostupna je na [ovom linku](https://guides.github.com/features/mastering-markdown/) ali i na Moodleu u sekciji Zadaće.
