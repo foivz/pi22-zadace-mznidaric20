@@ -25,7 +25,7 @@ namespace Sample_Analizer
             txtVrstaNaloga.Text = odabraniRadniNalog.Vrsta_Naloga.ToString();
             txtPretrage.Text = odabraniRadniNalog.Pretrage.ToString();
             var Ime = FrmPrijava.LoggedZaposlenik.Ime;
-            var Prezime = FrmPrijava.LoggedZaposlenik.Ime;
+            var Prezime = FrmPrijava.LoggedZaposlenik.Prezime;
             txtZaposlenik.Text = Ime + " " + Prezime;
             txtDatumZaprimanjaNaloga.Text = OdabraniRadniNalog.Datum_Zaprimanja.ToString();
         }

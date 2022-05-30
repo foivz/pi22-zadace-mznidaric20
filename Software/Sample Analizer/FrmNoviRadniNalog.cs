@@ -18,7 +18,7 @@ namespace Sample_Analizer
         {
             InitializeComponent();
             var Ime = FrmPrijava.LoggedZaposlenik.Ime;
-            var Prezime = FrmPrijava.LoggedZaposlenik.Ime;
+            var Prezime = FrmPrijava.LoggedZaposlenik.Prezime;
             txtZaposlenik.Text = Ime +" " + Prezime;
             DateTime datum_upisa = DateTime.Now;
             txtDatumZaprimanjaNaloga.Text = datum_upisa.ToString();
