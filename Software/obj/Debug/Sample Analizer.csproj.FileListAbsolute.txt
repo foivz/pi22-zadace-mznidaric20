@@ -1,0 +1,9 @@
+C:\Users\znida\source\repos\Sample Analizer\bin\Debug\Sample Analizer.exe.config
+C:\Users\znida\source\repos\Sample Analizer\bin\Debug\Sample Analizer.exe
+C:\Users\znida\source\repos\Sample Analizer\bin\Debug\Sample Analizer.pdb
+C:\Users\znida\source\repos\Sample Analizer\obj\Debug\Sample Analizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\znida\source\repos\Sample Analizer\obj\Debug\Sample_Analizer.Properties.Resources.resources
+C:\Users\znida\source\repos\Sample Analizer\obj\Debug\Sample Analizer.csproj.GenerateResource.cache
+C:\Users\znida\source\repos\Sample Analizer\obj\Debug\Sample Analizer.csproj.CoreCompileInputs.cache
+C:\Users\znida\source\repos\Sample Analizer\obj\Debug\Sample Analizer.exe
+C:\Users\znida\source\repos\Sample Analizer\obj\Debug\Sample Analizer.pdb
