@@ -115,5 +115,17 @@ namespace Sample_Analizer
             Close();
             frmArhiva.ShowDialog();
         }
+
+        private void btnIzvještaj_Click(object sender, EventArgs e)
+        {
+            RadniNalog odabraniRadniNalog = dataGridViewOtvoreniRadniNalozi.CurrentRow.DataBoundItem as RadniNalog;
+            if (odabraniRadniNalog != null)
+            {
+                Hide();
+                FrmIzvjestaj frmIzvjestaj = new FrmIzvjestaj(odabraniRadniNalog);
+                Close();
+                frmIzvjestaj.ShowDialog();
+            }
+        }
     }
 }

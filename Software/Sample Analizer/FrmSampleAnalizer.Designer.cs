@@ -39,6 +39,7 @@
             this.btnResetiraj = new System.Windows.Forms.Button();
             this.btnZatvoriradniNalog = new System.Windows.Forms.Button();
             this.btnArhiva = new System.Windows.Forms.Button();
+            this.btnIzvještaj = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewOtvoreniRadniNalozi)).BeginInit();
             this.SuspendLayout();
             // 
@@ -147,12 +148,23 @@
             this.btnArhiva.UseVisualStyleBackColor = true;
             this.btnArhiva.Click += new System.EventHandler(this.btnArhiva_Click);
             // 
+            // btnIzvještaj
+            // 
+            this.btnIzvještaj.Location = new System.Drawing.Point(1243, 489);
+            this.btnIzvještaj.Name = "btnIzvještaj";
+            this.btnIzvještaj.Size = new System.Drawing.Size(140, 45);
+            this.btnIzvještaj.TabIndex = 19;
+            this.btnIzvještaj.Text = "Prikaži izvještaj";
+            this.btnIzvještaj.UseVisualStyleBackColor = true;
+            this.btnIzvještaj.Click += new System.EventHandler(this.btnIzvještaj_Click);
+            // 
             // FrmSampleAnalizer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(1484, 661);
+            this.Controls.Add(this.btnIzvještaj);
             this.Controls.Add(this.btnArhiva);
             this.Controls.Add(this.btnZatvoriradniNalog);
             this.Controls.Add(this.btnResetiraj);
@@ -187,5 +199,6 @@
         private System.Windows.Forms.Button btnResetiraj;
         private System.Windows.Forms.Button btnZatvoriradniNalog;
         private System.Windows.Forms.Button btnArhiva;
+        private System.Windows.Forms.Button btnIzvještaj;
     }
 }

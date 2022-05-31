@@ -16,3 +16,4 @@ C:\Users\znida\source\repos\Sample Analizer\obj\Debug\Sample_Analizer.FrmNoviRad
 C:\Users\znida\source\repos\Sample Analizer\obj\Debug\Sample_Analizer.FrmUredivanje.resources
 C:\Users\znida\source\repos\Sample Analizer\obj\Debug\Sample_Analizer.FrmSampleAnalizer2.resources
 C:\Users\znida\source\repos\Sample Analizer\obj\Debug\Sample_Analizer.FrmArhiva.resources
+C:\Users\znida\source\repos\Sample Analizer\obj\Debug\Sample_Analizer.FrmIzvjestaj.resources

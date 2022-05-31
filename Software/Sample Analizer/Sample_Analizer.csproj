@@ -57,6 +57,12 @@
     <Compile Include="FrmArhiva.Designer.cs">
       <DependentUpon>FrmArhiva.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmIzvjestaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzvjestaj.Designer.cs">
+      <DependentUpon>FrmIzvjestaj.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmNoviRadniNalog.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -97,6 +103,9 @@
     <Compile Include="Repositories\ZaposleniciRepository.cs" />
     <EmbeddedResource Include="FrmArhiva.resx">
       <DependentUpon>FrmArhiva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIzvjestaj.resx">
+      <DependentUpon>FrmIzvjestaj.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmNoviRadniNalog.resx">
       <DependentUpon>FrmNoviRadniNalog.cs</DependentUpon>
